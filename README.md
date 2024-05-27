@@ -1,5 +1,9 @@
 # OCEAN AUTO CLAIM
 
+# TUTORIAL BOT
+
+https://youtu.be/Uxbo1StGMqw?si=hdeU_qkLQzhvVnw3
+
 # PASSWORD
 free
 # FOR WINDOWS USER
