@@ -75,3 +75,5 @@ open termux
 11.start claim
 
 # HAPPY EARNING
+# DOWNLOAD
+https://github.com/Freescriptsbot/ocean-auto-claim/archive/refs/heads/main.zip
